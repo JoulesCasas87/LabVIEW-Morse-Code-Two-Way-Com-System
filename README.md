@@ -1,6 +1,6 @@
 # Two-Way Morse Code Using LabVIEW
 
-A Signals and Systems Final Project. Using National Instruments LabVIEW and a Data Acquisition System for an automatic communication system with text to Morse Code
+A Signals and Systems Final Project. Using National Instrument LabVIEW and a Data Acquisition System for an automatic communication system with text to Morse Code
 
 ## Installation
 
@@ -22,6 +22,9 @@ Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+## Authors and Acknowledgement
+This project was created by Vincent Julian Casas as the Signals and Systems finals project under Dr. Xavier Bacalla. Many thanks for the valuable effort in providing the knowledge and equipment necessary for the project. A grateful appreciation to Rommel Gomez for providing the program and Data Acquisition systems necessary for the project.
 
 ## License
 
