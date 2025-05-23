@@ -5,7 +5,7 @@ A Signals and Systems Final Project. Using National Instrument LabVIEW and a Dat
 ## Current Project Status
 
 The project will not have consistent updates. However, there are plans to improve on the system namely:
-1. Sentence to Letter Translation
+1. Switching from Live Sentence to Live Letter Translation
 2. Switch to telegraph mode
 3. Adaptive signal translator in conjunction to the telegraph mode
 4. Audio transmission and reciever
