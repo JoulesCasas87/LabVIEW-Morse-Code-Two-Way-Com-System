@@ -2,6 +2,14 @@
 
 A Signals and Systems Final Project. Using National Instrument LabVIEW and a Data Acquisition System for an automatic communication system with text to Morse Code
 
+## Current Project Status
+
+The project will not have consistent updates. However, there are plans to improve on the system namely:
+1. Sentence to Letter Translation
+2. Switch to telegraph mode
+3. Adaptive signal translator in conjunction to the telegraph mode
+4. Audio transmission and reciever
+
 ## Installation
 
 Download the VI Program. Program requires the use of National Instruments LabVIEW Software and its proprietary Data Acquisition System. An Excel file is required for translation from string to morse code signals and vice versa.
