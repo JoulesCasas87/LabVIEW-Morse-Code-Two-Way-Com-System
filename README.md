@@ -12,7 +12,7 @@ The project will not have consistent updates. However, there are plans to improv
 
 ## Installation
 
-Download the VI Program. Program requires the use of National Instruments LabVIEW Software and its proprietary Data Acquisition System. An Excel file is required for translation from string to morse code signals and vice versa.
+Download the VI Program in releases. Program requires the use of National Instruments LabVIEW Software and its proprietary Data Acquisition System. An Excel file is required for translation from string to morse code signals and vice versa.
 
 
 ## Usage
