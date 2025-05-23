@@ -1,6 +1,6 @@
 # Two-Way Morse Code Using LabVIEW
 
-A Signals and Systems Final Project. Using National Instrument LabVIEW and a Data Acquisition System for an automatic communication system with text to Morse Code
+A Signals and Systems Final Project. Using National Instruments LabVIEW and a Data Acquisition System for an automatic communication system with text to Morse Code
 
 ## Installation
 
